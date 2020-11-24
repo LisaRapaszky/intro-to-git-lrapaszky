@@ -1,0 +1,4 @@
+# Bar file>> bar.txt
+echo # Bar file>> bar.txt
+echo # Bar file
+# Bar file
